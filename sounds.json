@@ -1,0 +1,20 @@
+{
+  "fluid_chamber_placed": {
+    "subtitle": "subtitles.pt.fluid_chamber_placed",
+    "sounds": [
+      "pt:slosh1",
+      "pt:slosh2",
+      "pt:slosh3",
+      "pt:slosh4"
+    ]
+  },
+  "fluid_chamber_broken": {
+    "subtitle": "subtitles.pt.fluid_chamber_broken",
+    "sounds": [
+      "pt:slosh_empty1",
+      "pt:slosh_empty2",
+      "pt:slosh_empty3",
+      "pt:slosh_empty4"
+    ]
+  }
+}
