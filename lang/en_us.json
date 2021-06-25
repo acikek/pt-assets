@@ -232,5 +232,7 @@
   "item.pt.platinum_ingot": "Platinum Ingot",
   "item.pt.thallium_ingot": "Thallium Ingot",
   "item.pt.lead_ingot": "Lead Ingot",
-  "item.pt.bismuth_ingot": "Bismuth Ingot"
+  "item.pt.bismuth_ingot": "Bismuth Ingot",
+  "sounds.pt.fluid_chamber_placed": "Fluid Chamber Placed",
+  "sounds.pt.fluid_chamber_broken": "Fluid Chamber Broken"
 }
