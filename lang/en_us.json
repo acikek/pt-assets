@@ -116,6 +116,8 @@
   "block.pt.neptunium_block": "Block of Neptunium",
   "block.pt.plutonium_block": "Block of Plutonium",
   "block.pt.americium_block": "Block of Americium",
+  "block.pt.stibnite_block": "Stibnite",
+  "block.pt.cinnabar_block": "Cinnabar",
   "item.pt.empty_gas_cell": "Empty Gas Cell",
   "item.pt.hydrogen": "Hydrogen",
   "item.pt.helium": "Helium",
@@ -233,6 +235,8 @@
   "item.pt.thallium_ingot": "Thallium Ingot",
   "item.pt.lead_ingot": "Lead Ingot",
   "item.pt.bismuth_ingot": "Bismuth Ingot",
+  "item.pt.stibnite": "Stibnite Shard",
+  "item.pt.cinnabar": "Cinnabar Gemstone",
   "sounds.pt.fluidic_chamber_placed": "Fluidic Chamber Placed",
   "sounds.pt.fluidic_chamber_broken": "Fluidic Chamber Broken"
 }
