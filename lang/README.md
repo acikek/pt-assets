@@ -15,7 +15,7 @@ Notes about language files
     * wolframio -> volframio
   * Chile:
     * nihonio -> nihomio
-  * Colobmia:
+  * Colombia:
     * tántalo -> tantalio
 
 Autor: acikek
