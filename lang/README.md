@@ -23,3 +23,7 @@ Autor: acikek
 ## Tagalog (tl)
 
 Autor: Anon64
+
+## 日本語
+
+作者: Charsy89
