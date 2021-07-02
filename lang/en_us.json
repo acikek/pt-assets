@@ -354,5 +354,6 @@
   "item.pt.stibnite": "Stibnite Shard",
   "item.pt.cinnabar": "Cinnabar Gemstone",
   "sounds.pt.fluidic_chamber_placed": "Fluidic Chamber Placed",
-  "sounds.pt.fluidic_chamber_broken": "Fluidic Chamber Broken"
+  "sounds.pt.fluidic_chamber_broken": "Fluidic Chamber Broken",
+  "itemGroup.pt.pt": "Periodic Table"
 }
