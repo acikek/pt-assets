@@ -27,3 +27,7 @@ Autor: Anon64
 ## 日本語
 
 作者: Charsy89
+
+## Français (fr)
+
+Auteur: charlypoirier
